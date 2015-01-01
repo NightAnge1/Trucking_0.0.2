@@ -81,6 +81,7 @@ data:extend({
     },
     animation =
     {
+      layers =
       {
 		  width = 102,
           height = 86,
